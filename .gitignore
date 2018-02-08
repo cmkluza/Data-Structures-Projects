@@ -8,6 +8,7 @@
 .idea/
 out/
 target/
+test/
 
 # Zipped Files #
 ################

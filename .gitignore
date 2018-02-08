@@ -1,0 +1,23 @@
+# Compiled Java Classes #
+#########################
+*.class
+
+# IntelliJ Files and Directories #
+##################################
+*.xml
+.idea/
+out/
+target/
+
+# Zipped Files #
+################
+*.zip
+*.rar
+
+# Formatted Documents #
+#######################
+*.pdf
+*.doc
+*.docx
+*.xlsx
+*~

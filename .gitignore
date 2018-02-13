@@ -5,6 +5,7 @@
 # IntelliJ Files and Directories #
 ##################################
 *.xml
+*.iml
 .idea/
 out/
 target/

@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 
 class Heap<T extends Comparable<T>> {
     /* =============== VARIABLES =============== */
-    ArrayList<T> nodes; // backed by an ArrayList to make certain elements of generics easier
+    ArrayList<T> nodes;
 
     /* =============== CONSTRUCTOR =============== */
     // default constructor - sets value of initial capacity to default of 20

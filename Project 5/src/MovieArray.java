@@ -129,10 +129,8 @@ class MovieArray {
         // if the database is 50 or fewer, print the list of movies
         if (numMovies <= 50) {
             System.out.println("Result after Heapify:");
-            int i = 0;
-            for (Movie mov : movies) {
-                System.out.println(i + " " + mov);
-                i++;
+            for (int i = 0; i < movies.length; i++) {
+                System.out.println(i + " " + movies[i]);
             }
         }
         // temporary array to store sorted values in

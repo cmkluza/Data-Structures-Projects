@@ -1,7 +1,7 @@
 # Project 4 - Fun with Trees
 
 ### Description
-This project familiarized me with operations on binary search trees. Utilizes a similar approach to [Project 1](..\Project 1\) of loading several words from text files and sorting/searching them.
+This project familiarized me with operations on binary search trees. Utilizes a similar approach to Project 1 of loading several words from text files and sorting/searching them.
 
 ### Given Files
 * Dictionaries

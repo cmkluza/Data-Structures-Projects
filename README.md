@@ -12,7 +12,7 @@ This project familiarized me with stacks and queues by having me create a Revers
 This project familiarized me with matrices and linked lists by having me store matrices both densely with a 2D array, and sparsely with a linked list, and having me perform numerous operations on them.
 
 ## Project 4 - Fun With Trees
-This project familiarized me with operations on binary search trees. Utilizes a similar approach to [Project 1](../Project 1) of loading several words from text files and sorting/searching them.
+This project familiarized me with operations on binary search trees. Utilizes a similar approach to Project 1 of loading several words from text files and sorting/searching them.
 
 ## Project 5 - Fun With Movies
 This project familiarized me with hash tables and advanced sorting techniques, utilizing a database of movie information to be loaded from a file and sorted/searched.
